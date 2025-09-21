@@ -21,7 +21,7 @@
 
 | Local Image Prediction | Real-Time Webcam |
 |------------------------|------------------|
-| ![Image Demo](./screenshots/sample_result.jpg) | ![Realtime Demo](./screenshots/realtime_demo.gif) |
+| ![Image Demo](./Screenshot1.png) | ![Realtime Demo](./Screenshot2.png) |
 
 ---
 
@@ -44,8 +44,8 @@ Copy code
 
 1️⃣ **Clone Repository**
 ```bash
-git clone https://github.com/your-username/Gender-Classification.git
-cd Gender-Classification
+git clone https://github.com/piyush241203/gender_detect.git
+cd gender_detect
 2️⃣ Create Virtual Environment (Recommended)
 
 bash
